@@ -30,7 +30,7 @@ The learning path will be done via 4 parts
 - Clustering
 - Segmentation / Profiling Analytics
 
-#### part F :
+#### Part F :
 - Recommendation Engines
 
 ----
