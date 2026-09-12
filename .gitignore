@@ -1,0 +1,7 @@
+*.pyc
+*.pyd
+*__pycache__/
+*.ipynb_checkpoints
+*.vscode/
+*.xlsx
+*.csv
